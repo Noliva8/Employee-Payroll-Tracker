@@ -4,6 +4,11 @@ Here is a snapshoot of how the application looks like:
 
 You can find images of the application in the asset folder.
 
+<img width="1756" alt="Screenshot 2024-05-02 at 11 27 17 PM" src="https://github.com/Noliva8/Employee-Payroll-Tracker/assets/147685999/f7735f23-7e04-4a3d-aaa9-40d1d00fdfa5">
+<img width="1792" alt="Screenshot 2024-05-02 at 11 26 48 PM" src="https://github.com/Noliva8/Employee-Payroll-Tracker/assets/147685999/53249cb0-88e4-4d4f-bd96-45adf46f39ce">
+![03-javascript-homework-demo](https://github.com/Noliva8/Employee-Payroll-Tracker/assets/147685999/f407fd20-d894-49e9-bc9a-35ff54f252ee)
+
+
 To achieve this, i followed these steps:
 
 GIVEN an employee payroll tracker from my instructor,
